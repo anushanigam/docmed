@@ -1,0 +1,56 @@
+#header{
+    background-color: aliceblue;
+    padding-left: 5%;
+    
+}
+#header-sec{
+    margin-left: 70%;
+    margin-right: 5%;
+}
+.icons{
+    margin-left: 1%
+}
+.image{
+    margin: 0 auto;
+    
+    height: 90%;
+    width:70%;
+    
+}
+
+.col{
+    padding-left: 20%;
+}
+
+
+
+.card{
+    margin: auto auto;
+}
+
+.wallpaper{
+    margin-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    height:70%;
+    width:100%;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+       .carousel-item{
+    height: 500px;
+    margin-top:35px;
+} 
+.carousel-item img{
+    height: 500px;
+}
+
+.l{
+    display: none;
+}
